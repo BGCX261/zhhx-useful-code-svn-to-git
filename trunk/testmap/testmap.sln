@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testmap", "testmap\testmap.vcproj", "{645F6F9C-C260-402C-8262-29D36E67DAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645F6F9C-C260-402C-8262-29D36E67DAB2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{645F6F9C-C260-402C-8262-29D36E67DAB2}.Debug|Win32.Build.0 = Debug|Win32
+		{645F6F9C-C260-402C-8262-29D36E67DAB2}.Release|Win32.ActiveCfg = Release|Win32
+		{645F6F9C-C260-402C-8262-29D36E67DAB2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

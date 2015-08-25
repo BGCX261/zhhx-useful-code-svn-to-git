@@ -1,0 +1,5 @@
+﻿Rc.exe /v data.rc http://www.itkeys.cn/
+
+Cvtres.exe /machine:ix86 data.res 
+
+Link /SUBSYSTEM:WINDOWS /DLL /NOENTRY data.res ;编译成DLL文件

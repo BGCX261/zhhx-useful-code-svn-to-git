@@ -1,0 +1,2 @@
+there is no method to use dll in mingw that produced from msvc.
+if you have no choice, you mutst wrapper the class interface through c function, then export c function interface through msvc compiled dll.
